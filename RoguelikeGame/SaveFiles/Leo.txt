@@ -1,0 +1,35 @@
+GameSystem:
+Standard
+2
+Player:
+Leo
+2
+66
+23
+13
+55
+75
+1
+110
+156
+3
+7
+Item:
+a Strength 50 Health Potion
+o
+50
+200
+0
+0
+Item:
+a Strength 50 Health Potion
+o
+50
+200
+0
+0
+Item:
+a Strength 5 Sword
+t
+5
+200

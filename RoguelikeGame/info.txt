@@ -1,0 +1,30 @@
+Information about the symbols...
+
+Fundamental Objects~                    Enemies~                                Items~                                  Equipment~
+
+@ is YOU!!                              S is a Snake (lvl 1 - 3)                G is a satchel of gold coins            t is a sword to increase attack
+
+# is a wall                             g is a Goblin (lvl 2 - 4)               o is a health potion                    W is a shield to increase defense
+
+. is an empty space                     B is a Bandit (lvl 3 - 5)               b is a bag to increase inventory size   Y is a set of armour to increase max health
+
+E is the exit to the next floor         O is an Ogre (lvl 4 - 6)                s is a scroll to increase experience    * is an artifact to do something cool! 
+
+anything not on this list is empty      I is an Imp (lvl 5 - 8)                 n is a nice note to read!
+but invalid to walk on
+                                        K is an evil Knight (lvl 6 - 9)
+
+                                        d is a demon (lvl 7 - 10)
+
+                                        F is animated Fire (lvl 8 - 11)
+
+                                        L is a lawyer (lvl 10 - 15)
+
+                                        Z is a zombie (lvl 12 - 17)
+
+                                        A is adamantine (lvl 15 - 20)
+
+                                        U is the Unknown (lvl 20 - 30)
+
+                                        D is the Dragon (lvl 100)
+                                        so pretty much instant death
